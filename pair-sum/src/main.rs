@@ -27,7 +27,7 @@ fn take_array_input() -> Vec<i32> {
         .map(|s| s.parse().expect("parse error"))
         .collect();
 
-    return numbers;
+    numbers
 }
 
 // Time & Space: O(n^2), O(1)
