@@ -1,5 +1,5 @@
 [package]
-name = "rust-dsa"
+name = "pair-sum"
 version = "0.1.0"
 edition = "2021"
 
